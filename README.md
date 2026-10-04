@@ -62,9 +62,9 @@ Property tambahan: `border-bottom`, `padding-bottom`, `font-weight`, `text-trans
 
 | Elemen | Ukuran | Line height |
 | --- | --- | --- |
-| h1 | 36px | 1.6 (mengikuti body) |
-| h2 | 24px | 1.6 (mengikuti body) |
-| Paragraf | 16px | 1.6 (1.8 pada Tentang Saya) |
+| h1 | 36px | 1.6 |
+| h2 | 24px | 1.6 |
+| Paragraf | 16px | 1.6 |
 | Daftar | 16px | 2 |
 
 

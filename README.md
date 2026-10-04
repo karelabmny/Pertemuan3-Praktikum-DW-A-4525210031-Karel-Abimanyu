@@ -72,7 +72,7 @@ Property tambahan: `border-bottom`, `padding-bottom`, `font-weight`, `text-trans
 
 **Tampilan Desktop**
 
-![Tampilan desktop](sc<img width="1901" height="1091" alt="index desktop" src="https://github.com/user-attachments/assets/f690551e-8007-4499-9bd7-724fdd810b5e" />)
+<img width="1901" height="1091" alt="index desktop" src="https://github.com/user-attachments/assets/f690551e-8007-4499-9bd7-724fdd810b5e" />
 
 
 ## Ringkasan Kesimpulan
